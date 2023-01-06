@@ -1,0 +1,47 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Yaban",
+      "author": "Yakup Kadri Karaosmanoğlu",
+      "categoryId": "1",
+      "isbn": "11111111111"
+    },
+    {
+      "id": 2,
+      "name": "Yeraltından Notlar",
+      "author": "Dostoyevski",
+      "isbn": "11111111112",
+      "categoryId": "2"
+    },
+    {
+      "id": 1662320160640,
+      "name": "Sineklerin Tanrisi",
+      "author": "William Golding",
+      "categoryId": "1",
+      "isbn": ""
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Roman"
+    },
+    {
+      "id": 2,
+      "name": "Hikaye"
+    },
+    {
+      "id": 1672688194374,
+      "name": "Makale"
+    },
+    {
+      "id": 1672688952510,
+      "name": "Şiir"
+    },
+    {
+      "id": 1672689027360,
+      "name": "Biyografi"
+    }
+  ]
+}
